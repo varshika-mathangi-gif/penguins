@@ -69,3 +69,10 @@ button:hover {
 #no {
     position: absolute;
 }
+
+/* GIF Styling */
+.gif {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
